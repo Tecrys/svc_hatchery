@@ -10,6 +10,14 @@
             "id": "lw_lazylib",
             "name": "LazyLib",
         },
+		        {
+            "id": "sidebarLib",
+            "name": "sidebarLib",
+        },
+				        {
+            "id": "bananaFactory",
+            "name": "bananaFactory",
+        },
         {
           "id": "bananaLib",
           "name": "bananaLib",
