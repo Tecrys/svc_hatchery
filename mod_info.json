@@ -1,0 +1,20 @@
+{
+  "id":"bugsegg", # internal id
+	"name":"Voidling Hatchery", # displayed to the player
+    "author": "Banano",
+	"version":"0.9.1",
+	"description":"Adds bananaFactory compatibility for SVC Voidlings.",
+	"gameVersion":"0.98",
+	"dependencies": [
+        {
+            "id": "lw_lazylib",
+            "name": "LazyLib",
+        },
+        {
+          "id": "bananaLib",
+          "name": "bananaLib",
+        }
+    ],
+	"modPlugin":"bugsegg.modPlugin",
+	"jars":["jars/bugsegg.jar"],
+}

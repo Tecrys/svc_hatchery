@@ -1,0 +1,28 @@
+{
+	"bugsegg_recipe_egg":{
+		"displayName":"Hatchery",
+		"productID":["voidling_egg"], 
+		"makerHullmodID":["NONE"],
+		"numberToProduce":"1",
+		"timeMult":"4", 
+		"components":{
+			"all":[
+
+			{"id":"svc_void_chitin", 
+				"type":"SPECIAL", 
+				"amount":"10000",
+				"consumed":"true"
+			},
+			{"id":"svc_whale_oil", 
+				"type":"SPECIAL", 
+				"amount":"1",
+				"consumed":"true"
+			}
+
+			],	
+		},
+		"tags":["isAlwaysKnown"],
+		"icon":"graphics/bugsegg/icons/recipe/eggs_icon.png",
+		"plugin":"bugsegg.recipes.produceEgg",
+	},
+}

@@ -1,0 +1,2 @@
+name,id,tags,rarity,base price,stack size,cargo space,icon,sound id,sound id drop,plugin,plugin params,desc,order
+Voidling Egg,voidling_egg,,,200000,1,200,graphics/bugsegg/icons/cargo/egg.png,ui_cargo_special_biotech_pickup,ui_cargo_special_bio_drop,bugsegg.special.eggItem,,Strange alien egg.,200

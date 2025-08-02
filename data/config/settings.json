@@ -1,0 +1,9 @@
+{
+	"bugsegg_csvPath":"data/config/svc_reproduction.csv",
+	"graphics":{
+		"bananaFactory_recipe_icon":{
+			"bugsegg_recipe_egg":"graphics/bugsegg/icons/recipe/eggs_icon.png",
+		},
+	
+	},
+}

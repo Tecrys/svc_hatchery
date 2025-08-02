@@ -1,0 +1,8 @@
+{
+	
+	"bugsegg":{
+		"egg_name":"Fertilized %s egg",
+		"egg_desc":"A disturbing vitality emanates from this egg. The stasis field flickers, struggling to contain the burgeoning life within. Hatching is imminent, a catastrophic release averted only by fragile technology. Internal scans confirm the presence of an embryo, its development accelerated at an alarming rate. It contains an embryo of:",
+		"egg_action":"hatch",
+	},
+}
